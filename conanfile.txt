@@ -1,0 +1,11 @@
+[requires]
+tbb/2020.0
+spdlog/1.9.2
+cxxopts/2.2.1
+openmesh/8.1
+
+[options]
+opencv:contrib=True
+
+[generators]
+cmake
